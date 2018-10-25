@@ -1,5 +1,5 @@
 import React from 'react';
-import Actionsheet from '../src';
+import Actionsheet from '../dist';
 import Enzyme from 'enzyme';
 import Adapter from 'enzyme-adapter-react-16';
 import sinon from 'sinon';
